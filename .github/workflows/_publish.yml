@@ -1,0 +1,4 @@
+- source: project
+  quarto-pub:
+    - id: "qpa_gTJsfjcCVGqJdqOA6Jum2eHS9FRbgPUkx23P9gDTCECvWOlwFN5RgPbZsuhMWBUE"
+      url: "https://jmorrier.quarto.pub/qp-topics"
